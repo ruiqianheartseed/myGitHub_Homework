@@ -1,0 +1,7 @@
+﻿  lenet.c
+  main.c
+c:\users\administrator\source\repos\lenet-5\lenet-5\lenet-5\main.c(85): warning C4013: “testing”未定义；假设外部返回 int
+c:\users\administrator\source\repos\lenet-5\lenet-5\lenet-5\main.c(86): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\lenet-5\lenet-5\lenet-5\main.c(100): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  LeNet-5.vcxproj -> C:\Users\Administrator\source\repos\LeNet-5\LeNet-5\x64\Debug\LeNet-5.exe
