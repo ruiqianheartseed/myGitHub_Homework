@@ -1,0 +1,170 @@
+﻿  64 bit Processing .\demo.idl
+  demo.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\oaidl.idl
+  oaidl.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\objidl.idl
+  objidl.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\unknwn.idl
+  unknwn.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\wtypes.idl
+  wtypes.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\wtypesbase.idl
+  wtypesbase.idl
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\basetsd.h
+  basetsd.h
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\shared\guiddef.h
+  guiddef.h
+  64 bit Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\um\oaidl.acf
+  oaidl.acf
+  stdafx.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  AVIHandler.cpp
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\ddraw.h(41): warning C4005: “CO_E_NOTINITIALIZED”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(30420): note: 参见“CO_E_NOTINITIALIZED”的前一个定义
+  should not include d3dtypes.h when compiling for DX8 or newer interfaces
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\avihandler.cpp(57): warning C4101: “hr”: 未引用的局部变量
+  ChildFrm.cpp
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\resource.h(98): warning C4005: “ID_Gray”: 宏重定义
+  c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\resource.h(77): note: 参见“ID_Gray”的前一个定义
+  demo.cpp
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\resource.h(98): warning C4005: “ID_Gray”: 宏重定义
+  c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\resource.h(77): note: 参见“ID_Gray”的前一个定义
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\ddraw.h(41): warning C4005: “CO_E_NOTINITIALIZED”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(30420): note: 参见“CO_E_NOTINITIALIZED”的前一个定义
+  should not include d3dtypes.h when compiling for DX8 or newer interfaces
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demo.cpp(61): warning C4996: 'CWinApp::Enable3dControls': CWinApp::Enable3dControls is no longer needed. You should remove this call.
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.16.27023\atlmfc\include\afxwin.h(5229): note: 参见“CWinApp::Enable3dControls”的声明
+  demoDoc.cpp
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\resource.h(98): warning C4005: “ID_Gray”: 宏重定义
+  c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\resource.h(77): note: 参见“ID_Gray”的前一个定义
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\ddraw.h(41): warning C4005: “CO_E_NOTINITIALIZED”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(30420): note: 参见“CO_E_NOTINITIALIZED”的前一个定义
+  should not include d3dtypes.h when compiling for DX8 or newer interfaces
+  demoView.cpp
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\resource.h(98): warning C4005: “ID_Gray”: 宏重定义
+  c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\resource.h(77): note: 参见“ID_Gray”的前一个定义
+c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\ddraw.h(41): warning C4005: “CO_E_NOTINITIALIZED”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\shared\winerror.h(30420): note: 参见“CO_E_NOTINITIALIZED”的前一个定义
+  should not include d3dtypes.h when compiling for DX8 or newer interfaces
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(289): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(338): warning C4101: “y”: 未引用的局部变量
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(402): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(450): warning C4101: “x”: 未引用的局部变量
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(930): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(932): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(940): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(941): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(942): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(997): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(999): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1007): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1008): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1009): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1064): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1066): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1074): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1075): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1076): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1133): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1134): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1157): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1158): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1159): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1160): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1161): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1216): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1217): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1240): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1241): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1242): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1243): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1244): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1299): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1300): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1323): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1324): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1325): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1326): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1327): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1538): warning C4101: “x”: 未引用的局部变量
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1615): warning C4101: “x”: 未引用的局部变量
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1691): warning C4101: “x”: 未引用的局部变量
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1803): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(1874): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(2013): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(2014): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(2067): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(2070): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\demoview.cpp(2073): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  dibapi.cpp
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\dibapi.cpp(469): warning C4244: “初始化”: 从“SIZE_T”转换到“DWORD”，可能丢失数据
+  GrayTrans.cpp
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\graytrans.cpp(173): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\graytrans.cpp(856): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\graytrans.cpp(1200): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\graytrans.cpp(1201): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\graytrans.cpp(1207): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\graytrans.cpp(1350): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  histogram.cpp
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\histogram.cpp(188): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\histogram.cpp(327): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  ImgCenterDib.cpp
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\imgcenterdib.cpp(227): warning C4244: “参数”: 从“ULONGLONG”转换到“UINT”，可能丢失数据
+  MainFrm.cpp
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\resource.h(98): warning C4005: “ID_Gray”: 宏重定义
+  c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\resource.h(77): note: 参见“ID_Gray”的前一个定义
+  Morphology.cpp
+  myfile.cpp
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\myfile.cpp(183): warning C4244: “=”: 从“ULONGLONG”转换到“DWORD”，可能丢失数据
+  Segment.cpp
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\segment.cpp(179): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\segment.cpp(180): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\segment.cpp(258): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\segment.cpp(259): warning C4244: “/=”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\segment.cpp(262): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\segment.cpp(289): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\segment.cpp(345): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\segment.cpp(346): warning C4244: “/=”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\segment.cpp(349): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\segment.cpp(370): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\segment.cpp(377): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\segment.cpp(547): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\segment.cpp(637): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\segment.cpp(728): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\segment.cpp(810): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  transform.cpp
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(16): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(27): warning C4101: “xu”: 未引用的局部变量
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(8): warning C4101: “j”: 未引用的局部变量
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(27): warning C4101: “sh”: 未引用的局部变量
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(98): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(104): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(93): warning C4101: “off”: 未引用的局部变量
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(65): warning C4101: “j”: 未引用的局部变量
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(159): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(165): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(141): warning C4101: “off”: 未引用的局部变量
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(239): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(240): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(252): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(257): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(258): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(250): warning C4101: “xu”: 未引用的局部变量
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(231): warning C4101: “j”: 未引用的局部变量
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(250): warning C4101: “sh”: 未引用的局部变量
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(317): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(318): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(320): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(322): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(323): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(327): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(333): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+c:\users\administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\demo\transform.cpp(292): warning C4101: “j”: 未引用的局部变量
+  正在生成代码...
+resource.h(98): warning RC4005: 'ID_Gray' : redefinition
+  
+  demo.vcxproj -> C:\Users\Administrator\source\repos\zy1915210-葛瑞谦-数字图像处理作业1\x64\Debug\demo.exe

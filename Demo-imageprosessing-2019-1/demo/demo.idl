@@ -1,0 +1,29 @@
+﻿// demo.idl: demo.exe 的类型库源
+
+// 此文件将由 MIDL 编译器处理以产生
+// 类型库(demo.tlb)。
+
+[ uuid(00481ac4-58f6-4c97-a231-8601d4c9611b), version(1.0) ]
+library demo
+{
+	importlib("stdole32.tlb");
+	importlib("stdole2.tlb");
+
+	//  CdemoDoc 的主调度接口
+
+	[ uuid(61a5d8ea-e160-4fcd-b3a0-5ef4ee2be41f) ]
+	dispinterface Idemo
+	{
+		properties:
+
+		methods:
+	};
+
+	//  CdemoDoc 的类信息
+
+	[ uuid(ad584c78-4c2a-4237-8229-eb1c30f31f80) ]
+	coclass CdemoDoc
+	{
+		[default] dispinterface Idemo;
+	};
+};
